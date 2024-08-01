@@ -18,4 +18,13 @@ Working on the DeepSea project significantly enhanced my skills in quality assur
 
 ## 🧪 Test Design
 - ☑️ [DPS-69 User creation (function)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-69%5D%20User%20creation%20(function)%20-%20test%20set.pdf)
-  
+- ☑️ [DPS-2 First name (input field)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-2%5D%20First%20name%20(input%20field)%20-%20test%20set.pdf)
+- ☑️ [DPS-8 Last name (input field)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-8%5D%20Last%20name%20(input%20field)%20-%20test%20set.pdf)
+- ☑️ [DPS-14 Email (input field)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-14%5D%20Email%20(input%20field)%20-%20test%20set.pdf)
+- ☑️ [DPS-35 Telephone (input field)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-35%5D%20Telephone%20(input%20field)%20-%20test%20set.pdf)
+- ☑️ [DPS-44 Company she belongs (input field)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-44%5D%20Company%20she%20belongs%20(input%20field)%20-%20test%20set.pdf)
+- ☑️ [DPS-50 Department (radio buttons)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-50%5D%20Department%20(radio%20buttons)%20-%20test%20set.pdf)
+- ☑️ [DPS-53 Occupation (input field)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-53%5D%20Occupation%20(input%20field)%20-%20test%20set.pdf)
+- ☑️ [DPS-59 Role (segmented buttons)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-59%5D%20Role%20(segmented%20buttons)%20-%20test%20set.pdf)
+- ☑️ [DPS-62 Product Access (drop-down list)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-62%5D%20Product%20Access%20(drop-down%20list)%20-%20test%20set.pdf)
+- ☑️ [DPS-65 Vessel access (drop-down list)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-65%5D%20Vessel%20access%20(drop-down%20list)%20-%20test%20set.pdf)
