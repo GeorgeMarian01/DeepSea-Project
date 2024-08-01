@@ -15,3 +15,7 @@ Working on the DeepSea project significantly enhanced my skills in quality assur
 - ✅ [DPS-1 Create new user](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-1%5D%20Create%20new%20user.pdf)
 - ✅ [Use case scenario](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/Use%20Case%20Scenario.pdf)
 - ✅ [Software Requirements Specification](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/Software%20Requirements%20Specification%20(SRS).pdf)
+
+## 🧪 Test Design
+- ☑️ [DPS-69 User creation (function)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-69%5D%20User%20creation%20(function)%20-%20test%20set.pdf)
+  
