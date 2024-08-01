@@ -28,3 +28,10 @@ Working on the DeepSea project significantly enhanced my skills in quality assur
 - ☑️ [DPS-59 Role (segmented buttons)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-59%5D%20Role%20(segmented%20buttons)%20-%20test%20set.pdf)
 - ☑️ [DPS-62 Product Access (drop-down list)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-62%5D%20Product%20Access%20(drop-down%20list)%20-%20test%20set.pdf)
 - ☑️ [DPS-65 Vessel access (drop-down list)](https://github.com/GeorgeMarian01/DeepSea-Project/blob/main/Documentation/%5BDPS-65%5D%20Vessel%20access%20(drop-down%20list)%20-%20test%20set.pdf)
+
+## 🔨 Tools used
+🔶 [Project management with **Jira**](https://www.atlassian.com/software/jira)
+
+🔶 [Test case management with **Xray**](https://www.getxray.app/)
+
+🔶 [Export documentation with **Better PDF Exporter**](https://marketplace.atlassian.com/apps/5167/better-pdf-exporter-for-jira?tab=overview&hosting=cloud)
